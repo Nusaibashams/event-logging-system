@@ -59,6 +59,5 @@ npm install
 
 # Start the frontend server
 npm run dev
-![Screenshot (172)](https://github.com/user-attachments/assets/1988f4af-6c81-4923-af9b-76bea84afc04)
 
 
